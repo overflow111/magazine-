@@ -1,0 +1,100 @@
+.breadcrumb-item {
+    white-space: normal;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+@media (max-width: 575.98px) {
+    .h3 {
+        font-size: 1.5rem;
+    }
+
+    .h4 {
+        font-size: 1.3rem;
+    }
+
+    .h5 {
+        font-size: 1.1rem;
+    }
+
+    .container,
+    .container-fluid,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl {
+        width: 100%;
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .row {
+        margin-right: -0.5rem;
+        margin-left: -0.5rem;
+    }
+
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
+    .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm,
+    .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,
+    .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
+    .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
+    .col-xl-auto {
+        padding-right: 0.5rem;
+        padding-left: 0.5rem;
+    }
+
+    .container,
+    .container-fluid,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+}
+
+.image-hover img {
+    -ms-transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear;
+}
+
+.image-hover:hover img {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.bg-transparent-primary {
+    background-color: rgba(78, 115, 223, 0.75) !important;
+}
+
+.bg-transparent-success {
+    background-color: rgba(28, 200, 138, 0.75) !important;
+}
+
+.bg-transparent-warning {
+    background-color: rgba(246, 194, 62, 0.75) !important;
+}
+
+.bg-transparent-danger {
+    background-color: rgba(231, 74, 59, 0.75) !important;
+}
+
+.bg-transparent-light {
+    background-color: rgba(248, 249, 252, 0.75) !important;
+}
+
+.bg-slide-text {
+    background: -webkit-gradient(linear, left bottom, left top, from(#1B0000), to(transparent));
+}

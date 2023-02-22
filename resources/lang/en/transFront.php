@@ -1,0 +1,55 @@
+<?php
+
+return [
+    'app-name' => '«Syyahat» magazine',
+    'app-website' => null,
+    'description' => 'The main activity of the «Syyahat» Magazine lies in a detailed acquaintance of local and foreign tourists and also travellers with the features of nature, history and culture and the tourist sites of our country.',
+    'keywords' => null,
+    'address' => 'Turkmenistan, Ashgabat city, Bitarap Turkmenistan avenue 461.',
+    'phones' => null,
+    'fax' => null,
+    'email' => null,
+
+    'home' => 'Home',
+    'subscribe' => 'Subscribe',
+    'about-us' => 'About us',
+    'search' => 'posts, authors',
+    'contact' => 'Contact',
+    'contact-to-administrator' => 'Contact to administrator',
+    'under-construction' => 'Website under construction',
+
+    'my-plans' => 'My plans',
+    'sale-completed' => 'Successfully completed',
+    'new' => 'New',
+    'buy' => 'Buy',
+    'language' => 'Language',
+    'ok' => 'Ok',
+
+    'u-name' => 'Name',
+    'surname' => 'Surname',
+    'code' => 'Code',
+    'phone' => 'Phone',
+    'e-mail' => 'E-mail',
+    'phone-or-email' => 'Phone or e-mail',
+    'message' => 'Message',
+    'submit' => 'Submit',
+    'contact-success' => 'Your message was sent, thanks for interesting.',
+
+    'welcome' => 'Welcome!',
+    'username' => 'Username',
+    'password' => 'Password',
+    'remember-me' => 'Remember me',
+    'login' => 'Login',
+    'register' => 'Register',
+    'logout' => 'Logout',
+    'verification-not-found' => 'Verification not found',
+
+    'error' => 'Error',
+    'error-403' => "Sorry, you don't have permission to access this area!",
+    'error-404' => "Sorry, the page you requested not found :(",
+    'error-419' => "Sorry, page expired!",
+    'error-500' => "Internal Server Error :(",
+    'error-503' => "Sorry, we're down for essential maintenance!",
+
+    'rights' => 'All rights reserved.',
+];

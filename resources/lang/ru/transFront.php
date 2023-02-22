@@ -1,0 +1,55 @@
+<?php
+
+return [
+    'app-name' => 'Журнал «Сыяхат»',
+    'app-website' => null,
+    'description' => 'Основная деятельность журнала «Сыяхат» состоит в подробном ознакомлении местных и иностранных туристов, а также путешественников с особенностями природы, истории и культуры, а также с туристическими объектами нашей страны.',
+    'keywords' => null,
+    'address' => 'Туркменистан, Ашхабад, пр. Битарап Туркменистан, д. 461.',
+    'phones' => null,
+    'fax' => null,
+    'email' => null,
+
+    'home' => 'Главная',
+    'subscribe' => 'Подписывайся',
+    'about-us' => 'О нас',
+    'search' => 'статьи, авторы',
+    'contact' => 'Связаться',
+    'contact-to-administrator' => 'Связаться с администратором',
+    'under-construction' => 'Сайт находится в разработке',
+
+    'my-plans' => 'Мои планы',
+    'sale-completed' => 'Успешно завершен',
+    'new' => 'Новый',
+    'buy' => 'Купить',
+    'language' => 'Язык',
+    'ok' => 'Ок',
+
+    'u-name' => 'Имя',
+    'surname' => 'Фамилия',
+    'code' => 'Код',
+    'phone' => 'Номер телефона',
+    'e-mail' => 'Электронная почта',
+    'phone-or-email' => 'Номер телефона или электронная почта',
+    'message' => 'Сообщение',
+    'submit' => 'Отправить',
+    'contact-success' => 'Ваше письмо отправлено, спасибо за проявленный интерес.',
+
+    'welcome' => 'Добро пожаловать!',
+    'username' => 'Имя пользователя',
+    'password' => 'Пароль',
+    'remember-me' => 'Запомнить меня',
+    'login' => 'Войти в систему',
+    'register' => 'Создать аккаунт',
+    'logout' => 'Выйти из системы',
+    'verification-not-found' => 'Подтверждение не найдено',
+
+    'error' => 'Error',
+    'error-403' => "Sorry, you don't have permission to access this area!",
+    'error-404' => "Sorry, the page you requested not found :(",
+    'error-419' => "Sorry, page expired!",
+    'error-500' => "Internal Server Error :(",
+    'error-503' => "Sorry, we're down for essential maintenance!",
+
+    'rights' => 'Все права защищены.',
+];

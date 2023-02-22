@@ -1,0 +1,18 @@
+{
+  "emptyTable": "Maglumat tapylmady",
+  "info": "_START_ - _END_ aralygy görkezilýär | Jemi _TOTAL_",
+  "infoEmpty": "0 maglumat görkezilýär",
+  "infoFiltered": "(_MAX_ maglumatdan gözleg esasynda)",
+  "infoPostFix": "",
+  "lengthMenu": "Görkez _MENU_ maglumat",
+  "loadingRecords": "Ýüklenýär...",
+  "processing": "Dowam edýär...",
+  "search": "Gözleg:",
+  "zeroRecords": "Gözlegiňize göra maglumat tapylmady :(",
+  "paginate": {
+    "first": "Ilkinji",
+    "previous": "Öňki",
+    "next": "Indiki",
+    "last": "Soňky"
+  }
+}
